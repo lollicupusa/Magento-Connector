@@ -1,0 +1,7 @@
+C:\Users\Tsungying.Chen\Documents\Visual Studio 2017\Projects\M2NSConnector_1_Product_Comparision\NetSuite\bin\Debug\NetSuite.dll.config
+C:\Users\Tsungying.Chen\Documents\Visual Studio 2017\Projects\M2NSConnector_1_Product_Comparision\NetSuite\bin\Debug\NetSuite.dll
+C:\Users\Tsungying.Chen\Documents\Visual Studio 2017\Projects\M2NSConnector_1_Product_Comparision\NetSuite\bin\Debug\NetSuite.pdb
+C:\Users\Tsungying.Chen\Documents\Visual Studio 2017\Projects\M2NSConnector_1_Product_Comparision\NetSuite\obj\Debug\NetSuite.csprojAssemblyReference.cache
+C:\Users\Tsungying.Chen\Documents\Visual Studio 2017\Projects\M2NSConnector_1_Product_Comparision\NetSuite\obj\Debug\NetSuite.csproj.CoreCompileInputs.cache
+C:\Users\Tsungying.Chen\Documents\Visual Studio 2017\Projects\M2NSConnector_1_Product_Comparision\NetSuite\obj\Debug\NetSuite.dll
+C:\Users\Tsungying.Chen\Documents\Visual Studio 2017\Projects\M2NSConnector_1_Product_Comparision\NetSuite\obj\Debug\NetSuite.pdb

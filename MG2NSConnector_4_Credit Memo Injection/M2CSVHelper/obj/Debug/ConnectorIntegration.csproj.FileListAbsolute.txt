@@ -1,0 +1,84 @@
+C:\Users\Tsungying.Chen\Documents\Visual Studio 2017\Projects\M2NSConnector_1_Product_Comparision\M2CSVHelper\obj\Debug\ConnectorIntegration.csprojAssemblyReference.cache
+C:\Users\Tsungying.Chen\Documents\Visual Studio 2017\Projects\M2NSConnector_1_Product_Comparision\M2CSVHelper\obj\Debug\ConnectorIntegration.csproj.CoreCompileInputs.cache
+C:\Users\Tsungying.Chen\Documents\Visual Studio 2017\Projects\M2NSConnector_1_Product_Comparision\M2CSVHelper\bin\Debug\CsvHelper.dll
+C:\Users\Tsungying.Chen\Documents\Visual Studio 2017\Projects\M2NSConnector_1_Product_Comparision\M2CSVHelper\bin\Debug\MG2Connector.dll
+C:\Users\Tsungying.Chen\Documents\Visual Studio 2017\Projects\M2NSConnector_1_Product_Comparision\M2CSVHelper\bin\Debug\System.ValueTuple.dll
+C:\Users\Tsungying.Chen\Documents\Visual Studio 2017\Projects\M2NSConnector_1_Product_Comparision\M2CSVHelper\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Tsungying.Chen\Documents\Visual Studio 2017\Projects\M2NSConnector_1_Product_Comparision\M2CSVHelper\bin\Debug\RestSharp.dll
+C:\Users\Tsungying.Chen\Documents\Visual Studio 2017\Projects\M2NSConnector_1_Product_Comparision\M2CSVHelper\bin\Debug\MG2Connector.pdb
+C:\Users\Tsungying.Chen\Documents\Visual Studio 2017\Projects\M2NSConnector_1_Product_Comparision\M2CSVHelper\bin\Debug\MG2Connector.dll.config
+C:\Users\Tsungying.Chen\Documents\Visual Studio 2017\Projects\M2NSConnector_1_Product_Comparision\M2CSVHelper\bin\Debug\System.ValueTuple.xml
+C:\Users\Tsungying.Chen\Documents\Visual Studio 2017\Projects\M2NSConnector_1_Product_Comparision\M2CSVHelper\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Tsungying.Chen\Documents\Visual Studio 2017\Projects\M2NSConnector_1_Product_Comparision\M2CSVHelper\bin\Debug\RestSharp.xml
+C:\Users\Tsungying.Chen\Documents\Visual Studio 2017\Projects\M2NSConnector_1_Product_Comparision\M2CSVHelper\obj\Debug\ConnectorIntegration.csproj.CopyComplete
+C:\Users\Tsungying.Chen\Documents\Visual Studio 2017\Projects\M2NSConnector_1_Product_Comparision\M2CSVHelper\bin\Debug\ConnectorIntegration.dll.config
+C:\Users\Tsungying.Chen\Documents\Visual Studio 2017\Projects\M2NSConnector_1_Product_Comparision\M2CSVHelper\bin\Debug\ConnectorIntegration.dll
+C:\Users\Tsungying.Chen\Documents\Visual Studio 2017\Projects\M2NSConnector_1_Product_Comparision\M2CSVHelper\bin\Debug\ConnectorIntegration.pdb
+C:\Users\Tsungying.Chen\Documents\Visual Studio 2017\Projects\M2NSConnector_1_Product_Comparision\M2CSVHelper\bin\Debug\NetSuiteConnector.dll
+C:\Users\Tsungying.Chen\Documents\Visual Studio 2017\Projects\M2NSConnector_1_Product_Comparision\M2CSVHelper\bin\Debug\NetSuiteConnector.pdb
+C:\Users\Tsungying.Chen\Documents\Visual Studio 2017\Projects\M2NSConnector_1_Product_Comparision\M2CSVHelper\bin\Debug\NetSuiteConnector.dll.config
+C:\Users\Tsungying.Chen\Documents\Visual Studio 2017\Projects\M2NSConnector_1_Product_Comparision\M2CSVHelper\obj\Debug\ConnectorIntegration.dll
+C:\Users\Tsungying.Chen\Documents\Visual Studio 2017\Projects\M2NSConnector_1_Product_Comparision\M2CSVHelper\obj\Debug\ConnectorIntegration.pdb
+C:\Users\Tsungying.Chen\Documents\Visual Studio 2017\Projects\M2NSConnector_2_Order_Injection\M2CSVHelper\bin\Debug\ConnectorIntegration.dll.config
+C:\Users\Tsungying.Chen\Documents\Visual Studio 2017\Projects\M2NSConnector_2_Order_Injection\M2CSVHelper\bin\Debug\ConnectorIntegration.dll
+C:\Users\Tsungying.Chen\Documents\Visual Studio 2017\Projects\M2NSConnector_2_Order_Injection\M2CSVHelper\bin\Debug\ConnectorIntegration.pdb
+C:\Users\Tsungying.Chen\Documents\Visual Studio 2017\Projects\M2NSConnector_2_Order_Injection\M2CSVHelper\bin\Debug\CsvHelper.dll
+C:\Users\Tsungying.Chen\Documents\Visual Studio 2017\Projects\M2NSConnector_2_Order_Injection\M2CSVHelper\bin\Debug\MG2Connector.dll
+C:\Users\Tsungying.Chen\Documents\Visual Studio 2017\Projects\M2NSConnector_2_Order_Injection\M2CSVHelper\bin\Debug\NetSuiteConnector.dll
+C:\Users\Tsungying.Chen\Documents\Visual Studio 2017\Projects\M2NSConnector_2_Order_Injection\M2CSVHelper\bin\Debug\System.ValueTuple.dll
+C:\Users\Tsungying.Chen\Documents\Visual Studio 2017\Projects\M2NSConnector_2_Order_Injection\M2CSVHelper\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Tsungying.Chen\Documents\Visual Studio 2017\Projects\M2NSConnector_2_Order_Injection\M2CSVHelper\bin\Debug\RestSharp.dll
+C:\Users\Tsungying.Chen\Documents\Visual Studio 2017\Projects\M2NSConnector_2_Order_Injection\M2CSVHelper\bin\Debug\MG2Connector.pdb
+C:\Users\Tsungying.Chen\Documents\Visual Studio 2017\Projects\M2NSConnector_2_Order_Injection\M2CSVHelper\bin\Debug\MG2Connector.dll.config
+C:\Users\Tsungying.Chen\Documents\Visual Studio 2017\Projects\M2NSConnector_2_Order_Injection\M2CSVHelper\bin\Debug\NetSuiteConnector.pdb
+C:\Users\Tsungying.Chen\Documents\Visual Studio 2017\Projects\M2NSConnector_2_Order_Injection\M2CSVHelper\bin\Debug\NetSuiteConnector.dll.config
+C:\Users\Tsungying.Chen\Documents\Visual Studio 2017\Projects\M2NSConnector_2_Order_Injection\M2CSVHelper\bin\Debug\System.ValueTuple.xml
+C:\Users\Tsungying.Chen\Documents\Visual Studio 2017\Projects\M2NSConnector_2_Order_Injection\M2CSVHelper\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Tsungying.Chen\Documents\Visual Studio 2017\Projects\M2NSConnector_2_Order_Injection\M2CSVHelper\bin\Debug\RestSharp.xml
+C:\Users\Tsungying.Chen\Documents\Visual Studio 2017\Projects\M2NSConnector_2_Order_Injection\M2CSVHelper\obj\Debug\ConnectorIntegration.csprojAssemblyReference.cache
+C:\Users\Tsungying.Chen\Documents\Visual Studio 2017\Projects\M2NSConnector_2_Order_Injection\M2CSVHelper\obj\Debug\ConnectorIntegration.csproj.CoreCompileInputs.cache
+C:\Users\Tsungying.Chen\Documents\Visual Studio 2017\Projects\M2NSConnector_2_Order_Injection\M2CSVHelper\obj\Debug\ConnectorIntegration.csproj.CopyComplete
+C:\Users\Tsungying.Chen\Documents\Visual Studio 2017\Projects\M2NSConnector_2_Order_Injection\M2CSVHelper\obj\Debug\ConnectorIntegration.dll
+C:\Users\Tsungying.Chen\Documents\Visual Studio 2017\Projects\M2NSConnector_2_Order_Injection\M2CSVHelper\obj\Debug\ConnectorIntegration.pdb
+C:\Users\Tsungying.Chen\Documents\Visual Studio 2017\Projects\M2NSConnector_4_Credit Memo Injection\M2CSVHelper\obj\Debug\ConnectorIntegration.csprojAssemblyReference.cache
+C:\Users\Tsungying.Chen\Documents\Visual Studio 2017\Projects\M2NSConnector_4_Credit Memo Injection\M2CSVHelper\obj\Debug\ConnectorIntegration.csproj.CoreCompileInputs.cache
+C:\Users\Tsungying.Chen\Documents\Visual Studio 2017\Projects\M2NSConnector_4_Credit Memo Injection\M2CSVHelper\obj\Debug\ConnectorIntegration.dll
+C:\Users\Tsungying.Chen\Documents\Visual Studio 2017\Projects\M2NSConnector_4_Credit Memo Injection\M2CSVHelper\obj\Debug\ConnectorIntegration.pdb
+C:\Users\Tsungying.Chen\Documents\Visual Studio 2017\Projects\M2NSConnector_4_Credit Memo Injection\M2CSVHelper\bin\Debug\ConnectorIntegration.dll.config
+C:\Users\Tsungying.Chen\Documents\Visual Studio 2017\Projects\M2NSConnector_4_Credit Memo Injection\M2CSVHelper\bin\Debug\ConnectorIntegration.dll
+C:\Users\Tsungying.Chen\Documents\Visual Studio 2017\Projects\M2NSConnector_4_Credit Memo Injection\M2CSVHelper\bin\Debug\ConnectorIntegration.pdb
+C:\Users\Tsungying.Chen\Documents\Visual Studio 2017\Projects\M2NSConnector_4_Credit Memo Injection\M2CSVHelper\bin\Debug\CsvHelper.dll
+C:\Users\Tsungying.Chen\Documents\Visual Studio 2017\Projects\M2NSConnector_4_Credit Memo Injection\M2CSVHelper\bin\Debug\MG2Connector.dll
+C:\Users\Tsungying.Chen\Documents\Visual Studio 2017\Projects\M2NSConnector_4_Credit Memo Injection\M2CSVHelper\bin\Debug\NetSuiteConnector.dll
+C:\Users\Tsungying.Chen\Documents\Visual Studio 2017\Projects\M2NSConnector_4_Credit Memo Injection\M2CSVHelper\bin\Debug\System.ValueTuple.dll
+C:\Users\Tsungying.Chen\Documents\Visual Studio 2017\Projects\M2NSConnector_4_Credit Memo Injection\M2CSVHelper\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Tsungying.Chen\Documents\Visual Studio 2017\Projects\M2NSConnector_4_Credit Memo Injection\M2CSVHelper\bin\Debug\RestSharp.dll
+C:\Users\Tsungying.Chen\Documents\Visual Studio 2017\Projects\M2NSConnector_4_Credit Memo Injection\M2CSVHelper\bin\Debug\MG2Connector.pdb
+C:\Users\Tsungying.Chen\Documents\Visual Studio 2017\Projects\M2NSConnector_4_Credit Memo Injection\M2CSVHelper\bin\Debug\MG2Connector.dll.config
+C:\Users\Tsungying.Chen\Documents\Visual Studio 2017\Projects\M2NSConnector_4_Credit Memo Injection\M2CSVHelper\bin\Debug\NetSuiteConnector.pdb
+C:\Users\Tsungying.Chen\Documents\Visual Studio 2017\Projects\M2NSConnector_4_Credit Memo Injection\M2CSVHelper\bin\Debug\NetSuiteConnector.dll.config
+C:\Users\Tsungying.Chen\Documents\Visual Studio 2017\Projects\M2NSConnector_4_Credit Memo Injection\M2CSVHelper\bin\Debug\System.ValueTuple.xml
+C:\Users\Tsungying.Chen\Documents\Visual Studio 2017\Projects\M2NSConnector_4_Credit Memo Injection\M2CSVHelper\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Tsungying.Chen\Documents\Visual Studio 2017\Projects\M2NSConnector_4_Credit Memo Injection\M2CSVHelper\bin\Debug\RestSharp.xml
+C:\Users\Tsungying.Chen\Documents\Visual Studio 2017\Projects\M2NSConnector_4_Credit Memo Injection\M2CSVHelper\obj\Debug\ConnectorIntegration.csproj.CopyComplete
+C:\Users\Tsungying.Chen\Documents\Visual Studio 2017\Projects\MG2NSConnector_4_Credit Memo Injection\M2CSVHelper\bin\Debug\ConnectorIntegration.dll.config
+C:\Users\Tsungying.Chen\Documents\Visual Studio 2017\Projects\MG2NSConnector_4_Credit Memo Injection\M2CSVHelper\bin\Debug\ConnectorIntegration.dll
+C:\Users\Tsungying.Chen\Documents\Visual Studio 2017\Projects\MG2NSConnector_4_Credit Memo Injection\M2CSVHelper\bin\Debug\ConnectorIntegration.pdb
+C:\Users\Tsungying.Chen\Documents\Visual Studio 2017\Projects\MG2NSConnector_4_Credit Memo Injection\M2CSVHelper\bin\Debug\CsvHelper.dll
+C:\Users\Tsungying.Chen\Documents\Visual Studio 2017\Projects\MG2NSConnector_4_Credit Memo Injection\M2CSVHelper\bin\Debug\MG2Connector.dll
+C:\Users\Tsungying.Chen\Documents\Visual Studio 2017\Projects\MG2NSConnector_4_Credit Memo Injection\M2CSVHelper\bin\Debug\NetSuiteConnector.dll
+C:\Users\Tsungying.Chen\Documents\Visual Studio 2017\Projects\MG2NSConnector_4_Credit Memo Injection\M2CSVHelper\bin\Debug\System.ValueTuple.dll
+C:\Users\Tsungying.Chen\Documents\Visual Studio 2017\Projects\MG2NSConnector_4_Credit Memo Injection\M2CSVHelper\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Tsungying.Chen\Documents\Visual Studio 2017\Projects\MG2NSConnector_4_Credit Memo Injection\M2CSVHelper\bin\Debug\RestSharp.dll
+C:\Users\Tsungying.Chen\Documents\Visual Studio 2017\Projects\MG2NSConnector_4_Credit Memo Injection\M2CSVHelper\bin\Debug\MG2Connector.pdb
+C:\Users\Tsungying.Chen\Documents\Visual Studio 2017\Projects\MG2NSConnector_4_Credit Memo Injection\M2CSVHelper\bin\Debug\MG2Connector.dll.config
+C:\Users\Tsungying.Chen\Documents\Visual Studio 2017\Projects\MG2NSConnector_4_Credit Memo Injection\M2CSVHelper\bin\Debug\NetSuiteConnector.pdb
+C:\Users\Tsungying.Chen\Documents\Visual Studio 2017\Projects\MG2NSConnector_4_Credit Memo Injection\M2CSVHelper\bin\Debug\NetSuiteConnector.dll.config
+C:\Users\Tsungying.Chen\Documents\Visual Studio 2017\Projects\MG2NSConnector_4_Credit Memo Injection\M2CSVHelper\bin\Debug\System.ValueTuple.xml
+C:\Users\Tsungying.Chen\Documents\Visual Studio 2017\Projects\MG2NSConnector_4_Credit Memo Injection\M2CSVHelper\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Tsungying.Chen\Documents\Visual Studio 2017\Projects\MG2NSConnector_4_Credit Memo Injection\M2CSVHelper\bin\Debug\RestSharp.xml
+C:\Users\Tsungying.Chen\Documents\Visual Studio 2017\Projects\MG2NSConnector_4_Credit Memo Injection\M2CSVHelper\obj\Debug\ConnectorIntegration.csprojAssemblyReference.cache
+C:\Users\Tsungying.Chen\Documents\Visual Studio 2017\Projects\MG2NSConnector_4_Credit Memo Injection\M2CSVHelper\obj\Debug\ConnectorIntegration.csproj.CoreCompileInputs.cache
+C:\Users\Tsungying.Chen\Documents\Visual Studio 2017\Projects\MG2NSConnector_4_Credit Memo Injection\M2CSVHelper\obj\Debug\ConnectorIntegration.csproj.CopyComplete
+C:\Users\Tsungying.Chen\Documents\Visual Studio 2017\Projects\MG2NSConnector_4_Credit Memo Injection\M2CSVHelper\obj\Debug\ConnectorIntegration.dll
+C:\Users\Tsungying.Chen\Documents\Visual Studio 2017\Projects\MG2NSConnector_4_Credit Memo Injection\M2CSVHelper\obj\Debug\ConnectorIntegration.pdb

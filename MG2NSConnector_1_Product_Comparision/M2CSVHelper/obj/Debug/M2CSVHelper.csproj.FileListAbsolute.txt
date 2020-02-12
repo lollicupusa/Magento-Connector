@@ -1,0 +1,10 @@
+C:\Users\Tsungying.Chen\Documents\Visual Studio 2017\Projects\MG2Connector\M2CSVHelper\bin\Debug\M2CSVHelper.dll
+C:\Users\Tsungying.Chen\Documents\Visual Studio 2017\Projects\MG2Connector\M2CSVHelper\bin\Debug\M2CSVHelper.pdb
+C:\Users\Tsungying.Chen\Documents\Visual Studio 2017\Projects\MG2Connector\M2CSVHelper\bin\Debug\CsvHelper.dll
+C:\Users\Tsungying.Chen\Documents\Visual Studio 2017\Projects\MG2Connector\M2CSVHelper\bin\Debug\System.ValueTuple.dll
+C:\Users\Tsungying.Chen\Documents\Visual Studio 2017\Projects\MG2Connector\M2CSVHelper\bin\Debug\System.ValueTuple.xml
+C:\Users\Tsungying.Chen\Documents\Visual Studio 2017\Projects\MG2Connector\M2CSVHelper\obj\Debug\M2CSVHelper.csprojAssemblyReference.cache
+C:\Users\Tsungying.Chen\Documents\Visual Studio 2017\Projects\MG2Connector\M2CSVHelper\obj\Debug\M2CSVHelper.csproj.CoreCompileInputs.cache
+C:\Users\Tsungying.Chen\Documents\Visual Studio 2017\Projects\MG2Connector\M2CSVHelper\obj\Debug\M2CSVHelper.csproj.CopyComplete
+C:\Users\Tsungying.Chen\Documents\Visual Studio 2017\Projects\MG2Connector\M2CSVHelper\obj\Debug\M2CSVHelper.dll
+C:\Users\Tsungying.Chen\Documents\Visual Studio 2017\Projects\MG2Connector\M2CSVHelper\obj\Debug\M2CSVHelper.pdb

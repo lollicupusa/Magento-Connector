@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xsd:schema xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/" xmlns:tranCustomersTyp="urn:types.customers_2019_2.transactions.webservices.netsuite.com" xmlns="http://www.w3.org/2001/XMLSchema" elementFormDefault="qualified" targetNamespace="urn:types.customers_2019_2.transactions.webservices.netsuite.com" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <xsd:simpleType name="ReturnAuthorizationOrderStatus">
+    <xsd:restriction base="xsd:string">
+      <xsd:enumeration value="_pendingApproval" />
+      <xsd:enumeration value="_pendingReceipt" />
+    </xsd:restriction>
+  </xsd:simpleType>
+  <xsd:simpleType name="ChargeStage">
+    <xsd:restriction base="xsd:string">
+      <xsd:enumeration value="_hold" />
+      <xsd:enumeration value="_nonBillable" />
+      <xsd:enumeration value="_processed" />
+      <xsd:enumeration value="_ready" />
+    </xsd:restriction>
+  </xsd:simpleType>
+  <xsd:simpleType name="ChargeUse">
+    <xsd:restriction base="xsd:string">
+      <xsd:enumeration value="_actual" />
+      <xsd:enumeration value="_forecast" />
+    </xsd:restriction>
+  </xsd:simpleType>
+  <xsd:simpleType name="CustomerPaymentHandlingMode">
+    <xsd:restriction base="xsd:string">
+      <xsd:enumeration value="_process" />
+      <xsd:enumeration value="_recordExternalEvent" />
+      <xsd:enumeration value="_saveOnly" />
+    </xsd:restriction>
+  </xsd:simpleType>
+  <xsd:simpleType name="CustomerPaymentPaymentOperation">
+    <xsd:restriction base="xsd:string">
+      <xsd:enumeration value="_authorization" />
+      <xsd:enumeration value="_capture" />
+      <xsd:enumeration value="_sale" />
+      <xsd:enumeration value="_refund" />
+      <xsd:enumeration value="_credit" />
+      <xsd:enumeration value="_refresh" />
+      <xsd:enumeration value="_void" />
+    </xsd:restriction>
+  </xsd:simpleType>
+  <xsd:simpleType name="CustomerDepositHandlingMode">
+    <xsd:restriction base="xsd:string">
+      <xsd:enumeration value="_process" />
+      <xsd:enumeration value="_recordExternalEvent" />
+      <xsd:enumeration value="_saveOnly" />
+    </xsd:restriction>
+  </xsd:simpleType>
+  <xsd:simpleType name="CustomerDepositPaymentOperation">
+    <xsd:restriction base="xsd:string">
+      <xsd:enumeration value="_authorization" />
+      <xsd:enumeration value="_capture" />
+      <xsd:enumeration value="_sale" />
+      <xsd:enumeration value="_refund" />
+      <xsd:enumeration value="_credit" />
+      <xsd:enumeration value="_refresh" />
+      <xsd:enumeration value="_void" />
+    </xsd:restriction>
+  </xsd:simpleType>
+  <xsd:simpleType name="CashRefundPaymentOperation">
+    <xsd:restriction base="xsd:string">
+      <xsd:enumeration value="_authorization" />
+      <xsd:enumeration value="_capture" />
+      <xsd:enumeration value="_sale" />
+      <xsd:enumeration value="_refund" />
+      <xsd:enumeration value="_credit" />
+      <xsd:enumeration value="_refresh" />
+      <xsd:enumeration value="_void" />
+    </xsd:restriction>
+  </xsd:simpleType>
+  <xsd:simpleType name="CashRefundHandlingMode">
+    <xsd:restriction base="xsd:string">
+      <xsd:enumeration value="_process" />
+      <xsd:enumeration value="_recordExternalEvent" />
+      <xsd:enumeration value="_saveOnly" />
+    </xsd:restriction>
+  </xsd:simpleType>
+  <xsd:simpleType name="CustomerRefundHandlingMode">
+    <xsd:restriction base="xsd:string">
+      <xsd:enumeration value="_process" />
+      <xsd:enumeration value="_recordExternalEvent" />
+      <xsd:enumeration value="_saveOnly" />
+    </xsd:restriction>
+  </xsd:simpleType>
+  <xsd:simpleType name="CustomerRefundPaymentOperation">
+    <xsd:restriction base="xsd:string">
+      <xsd:enumeration value="_authorization" />
+      <xsd:enumeration value="_capture" />
+      <xsd:enumeration value="_sale" />
+      <xsd:enumeration value="_refund" />
+      <xsd:enumeration value="_credit" />
+      <xsd:enumeration value="_refresh" />
+      <xsd:enumeration value="_void" />
+    </xsd:restriction>
+  </xsd:simpleType>
+</xsd:schema>
